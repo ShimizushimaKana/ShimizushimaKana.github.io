@@ -2554,10 +2554,10 @@ main >.inner {
   color: #FF6600;
 }
 .social .item.youtube::before {
-  background-color: #FF3300;
+  background-color: #e60026;
 }
 .social .item.youtube i {
-  color: #FF3300;
+  color: #e60026;
 }
 .social .item.instagram::before {
   background-color: #FF00FF;
