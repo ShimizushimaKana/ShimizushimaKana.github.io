@@ -2542,10 +2542,10 @@ main >.inner {
   color: #55acd5;
 }
 .social .item.facebook::before {
-  background-color: aceboo;
+  background-color: #1a0dab;
 }
 .social .item.facebook i {
-  color: aceboo;
+  color: #1a0dab;
 }
 .social .item.stackoverflow::before {
   background-color: #FF6600;
