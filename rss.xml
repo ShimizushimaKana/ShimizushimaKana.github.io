@@ -5,8 +5,18 @@
         <link>http://example.com</link>
         <description></description>
         <language>zh-Hans</language>
-        <pubDate>Tue, 17 Nov 2020 00:34:12 +0800</pubDate>
-        <lastBuildDate>Tue, 17 Nov 2020 00:34:12 +0800</lastBuildDate>
+        <pubDate>Wed, 18 Nov 2020 13:18:00 +0800</pubDate>
+        <lastBuildDate>Wed, 18 Nov 2020 13:18:00 +0800</lastBuildDate>
+        <category>牛逼PLUS</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2020/11/18/%E9%98%BF%E6%9C%88%E6%9C%88%E9%B8%9F%E5%93%A5%E5%93%A5%E6%88%91%E6%88%90%E5%8A%9F%E4%BA%86%E5%91%9C%E5%91%9C%E5%91%9C/</guid>
+            <title>阿月月鸟哥哥我成功了呜呜呜</title>
+            <link>http://example.com/2020/11/18/%E9%98%BF%E6%9C%88%E6%9C%88%E9%B8%9F%E5%93%A5%E5%93%A5%E6%88%91%E6%88%90%E5%8A%9F%E4%BA%86%E5%91%9C%E5%91%9C%E5%91%9C/</link>
+            <category>牛逼PLUS</category>
+            <pubDate>Wed, 18 Nov 2020 13:18:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;夸我夸我夸我夸我夸我夸我ヾ (≧ ▽ ≦) ゝ&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2020/11/17/Hi-This-is-Kana/</guid>
             <title>Hi! This is Kana!</title>
