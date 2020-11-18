@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://kana-shimizushima.com</id>
     <title>✨佳奈助的吹水茶会🍵</title>
-    <link href="http://example.com" />
+    <link href="http://kana-shimizushima.com" />
     <updated>2020-11-18T05:18:00.000Z</updated>
     <category term="茶话会" />
     <entry>
-        <id>http://example.com/2020/11/18/%E6%B8%85%E6%B0%B4%E5%B6%8B%E4%BD%B3%E5%A5%88%E7%9A%84%E5%90%B9%E6%B0%B4%E8%8C%B6%E4%BC%9Av1.1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/</id>
+        <id>http://kana-shimizushima.com/2020/11/18/%E6%B8%85%E6%B0%B4%E5%B6%8B%E4%BD%B3%E5%A5%88%E7%9A%84%E5%90%B9%E6%B0%B4%E8%8C%B6%E4%BC%9Av1.1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/</id>
         <title>清水嶋佳奈的吹水茶会v1.1正式上线</title>
-        <link rel="alternate" href="http://example.com/2020/11/18/%E6%B8%85%E6%B0%B4%E5%B6%8B%E4%BD%B3%E5%A5%88%E7%9A%84%E5%90%B9%E6%B0%B4%E8%8C%B6%E4%BC%9Av1.1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/"/>
+        <link rel="alternate" href="http://kana-shimizushima.com/2020/11/18/%E6%B8%85%E6%B0%B4%E5%B6%8B%E4%BD%B3%E5%A5%88%E7%9A%84%E5%90%B9%E6%B0%B4%E8%8C%B6%E4%BC%9Av1.1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/"/>
         <content type="html">&lt;p&gt;本博客从 2020 年 11 月 18 起正式开始对外发布&lt;/p&gt;
 &lt;p&gt;博客建立采用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYWdlcy5naXRodWIuY29tLw==&#34;&gt; Github Pages&lt;/span&gt; + &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt; 的部署架构&lt;br&gt;
 主题设计上采用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt; Theme-Shoka&lt;/span&gt; 的模板样式&lt;br&gt;
@@ -38,9 +38,9 @@
         <updated>2020-11-18T05:18:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2020/11/16/Hi!%20This%20is%20Kana!/</id>
+        <id>http://kana-shimizushima.com/2020/11/16/Hi!%20This%20is%20Kana!/</id>
         <title>Hi! This is Kana!</title>
-        <link rel="alternate" href="http://example.com/2020/11/16/Hi!%20This%20is%20Kana!/"/>
+        <link rel="alternate" href="http://kana-shimizushima.com/2020/11/16/Hi!%20This%20is%20Kana!/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
