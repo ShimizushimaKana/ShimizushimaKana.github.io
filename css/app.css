@@ -2535,6 +2535,12 @@ main >.inner {
 .social .item.about i {
   color: #3b5998;
 }
+.social .item.youtube::before {
+  background-color: #e60026;
+}
+.social .item.youtube i {
+  color: #e60026;
+}
 .social .item.email::before {
   background-color: #55acd5;
 }
@@ -2552,12 +2558,6 @@ main >.inner {
 }
 .social .item.stackoverflow i {
   color: #FF6600;
-}
-.social .item.youtube::before {
-  background-color: #e60026;
-}
-.social .item.youtube i {
-  color: #e60026;
 }
 .social .item.instagram::before {
   background-color: #FF00FF;
