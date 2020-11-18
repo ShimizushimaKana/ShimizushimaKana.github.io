@@ -2535,6 +2535,12 @@ main >.inner {
 .social .item.about i {
   color: #3b5998;
 }
+.social .item.skype::before {
+  background-color: #00aff0;
+}
+.social .item.skype i {
+  color: #00aff0;
+}
 .social .item.email::before {
   background-color: #55acd5;
 }
@@ -2547,17 +2553,17 @@ main >.inner {
 .social .item.facebook i {
   color: #1a0dab;
 }
+.social .item.stackoverflow::before {
+  background-color: #FF6600;
+}
+.social .item.stackoverflow i {
+  color: #FF6600;
+}
 .social .item.instagram::before {
   background-color: #FF00FF;
 }
 .social .item.instagram i {
   color: #FF00FF;
-}
-.social .item.skype::before {
-  background-color: #00AFF0;
-}
-.social .item.skype i {
-  color: #00AFF0;
 }
 .social .item:focus i,
 .social .item:hover i {
