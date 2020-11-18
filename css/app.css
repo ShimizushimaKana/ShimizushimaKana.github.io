@@ -2560,10 +2560,10 @@ main >.inner {
   color: #FF00FF;
 }
 .social .item.skype::before {
-  background-color: #e60026;
+  background-color: #00AFF0;
 }
 .social .item.skype i {
-  color: #e60026;
+  color: #00AFF0;
 }
 .social .item:focus i,
 .social .item:hover i {
