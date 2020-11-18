@@ -2541,6 +2541,12 @@ main >.inner {
 .social .item.youtube i {
   color: #e60026;
 }
+.social .item.skype::before {
+  background-color: #e60026;
+}
+.social .item.skype i {
+  color: #e60026;
+}
 .social .item.email::before {
   background-color: #55acd5;
 }
