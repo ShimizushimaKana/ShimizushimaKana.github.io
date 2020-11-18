@@ -2548,16 +2548,16 @@ main >.inner {
   color: aceboo;
 }
 .social .item.stackoverflow::before {
-  background-color: tack-overflo;
+  background-color: #FF6600;
 }
 .social .item.stackoverflow i {
-  color: tack-overflo;
+  color: #FF6600;
 }
 .social .item.instagram::before {
-  background-color: nstagra;
+  background-color: #FF00FF;
 }
 .social .item.instagram i {
-  color: nstagra;
+  color: #FF00FF;
 }
 .social .item:focus i,
 .social .item:hover i {
