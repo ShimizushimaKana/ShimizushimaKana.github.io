@@ -2535,18 +2535,6 @@ main >.inner {
 .social .item.about i {
   color: #3b5998;
 }
-.social .item.youtube::before {
-  background-color: #e60026;
-}
-.social .item.youtube i {
-  color: #e60026;
-}
-.social .item.skype::before {
-  background-color: #e60026;
-}
-.social .item.skype i {
-  color: #e60026;
-}
 .social .item.email::before {
   background-color: #55acd5;
 }
@@ -2570,6 +2558,12 @@ main >.inner {
 }
 .social .item.instagram i {
   color: #FF00FF;
+}
+.social .item.skype::before {
+  background-color: #e60026;
+}
+.social .item.skype i {
+  color: #e60026;
 }
 .social .item:focus i,
 .social .item:hover i {
