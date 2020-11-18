@@ -2535,12 +2535,6 @@ main >.inner {
 .social .item.about i {
   color: #3b5998;
 }
-.social .item.bilibili::before {
-  background-color: #00a1d6;
-}
-.social .item.bilibili i {
-  color: #00a1d6;
-}
 .social .item.email::before {
   background-color: #55acd5;
 }
@@ -2560,10 +2554,10 @@ main >.inner {
   color: #FF6600;
 }
 .social .item.youtube::before {
-  background-color: #c4302b;
+  background-color: #FF3300;
 }
 .social .item.youtube i {
-  color: #c4302b;
+  color: #FF3300;
 }
 .social .item.instagram::before {
   background-color: #FF00FF;
