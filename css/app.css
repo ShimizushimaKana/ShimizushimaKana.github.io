@@ -2547,12 +2547,6 @@ main >.inner {
 .social .item.facebook i {
   color: #1a0dab;
 }
-.social .item.stackoverflow::before {
-  background-color: #FF6600;
-}
-.social .item.stackoverflow i {
-  color: #FF6600;
-}
 .social .item.instagram::before {
   background-color: #FF00FF;
 }
