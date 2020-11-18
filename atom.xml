@@ -4,34 +4,43 @@
     <title>✨佳奈助的吹水茶会🍵</title>
     <link href="http://example.com" />
     <updated>2020-11-18T05:18:00.000Z</updated>
-    <category term="牛逼PLUS" />
+    <category term="茶话会" />
     <entry>
-        <id>http://example.com/2020/11/18/%E9%98%BF%E6%9C%88%E6%9C%88%E9%B8%9F%E5%93%A5%E5%93%A5%E6%88%91%E6%88%90%E5%8A%9F%E4%BA%86%E5%91%9C%E5%91%9C%E5%91%9C/</id>
-        <title>阿月月鸟哥哥我成功了呜呜呜</title>
-        <link rel="alternate" href="http://example.com/2020/11/18/%E9%98%BF%E6%9C%88%E6%9C%88%E9%B8%9F%E5%93%A5%E5%93%A5%E6%88%91%E6%88%90%E5%8A%9F%E4%BA%86%E5%91%9C%E5%91%9C%E5%91%9C/"/>
-        <content type="html">&lt;p&gt;夸我夸我夸我夸我夸我夸我ヾ (≧ ▽ ≦) ゝ&lt;/p&gt;
+        <id>http://example.com/2020/11/18/%E6%B8%85%E6%B0%B4%E5%B6%8B%E4%BD%B3%E5%A5%88%E7%9A%84%E5%90%B9%E6%B0%B4%E8%8C%B6%E4%BC%9Av1.1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/</id>
+        <title>清水嶋佳奈的吹水茶会v1.1正式上线</title>
+        <link rel="alternate" href="http://example.com/2020/11/18/%E6%B8%85%E6%B0%B4%E5%B6%8B%E4%BD%B3%E5%A5%88%E7%9A%84%E5%90%B9%E6%B0%B4%E8%8C%B6%E4%BC%9Av1.1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/"/>
+        <content type="html">&lt;p&gt;本博客从 2020 年 11 月 18 起正式开始对外发布&lt;/p&gt;
+&lt;p&gt;博客建立采用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYWdlcy5naXRodWIuY29tLw==&#34;&gt; Github Pages&lt;/span&gt; + &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt; 的部署架构&lt;br&gt;
+主题设计上采用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt; Theme-Shoka&lt;/span&gt; 的模板样式&lt;br&gt;
+目前实现文章发表、添加分类与标签等基础功能&lt;br&gt;
+附加功能已实现网易云音乐插件在页面的播放&lt;br&gt;
+以及在每篇文章末尾添加了游客打赏功能&lt;/p&gt;
+&lt;p&gt;目前已知待修复 bug 有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;个人资料卡图标颜色显示不正常问题&lt;/li&gt;
+&lt;li&gt;部分移动端初次加载缓慢问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下一版本待完善功能有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主题外观升级与完善&lt;/li&gt;
+&lt;li&gt;开放游客注册和文章评论互动&lt;/li&gt;
+&lt;li&gt;支持好友链接访问功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前更新完善功能的时间安排在寒假，届时也会参考游客的浏览体验&lt;/p&gt;
+&lt;p&gt;博主本人为上海交通大学软件工程专业本科三年级学生&lt;br&gt;
+想通过一个独立的博客平台更加深入记录自己代码学习的历程&lt;br&gt;
+从 11 月末将开始陆续发布本学期学习课程的笔记与资料&lt;br&gt;
+也会偶尔写一些个人随笔或者转载各类有趣生动的文章&lt;/p&gt;
+&lt;p&gt;希望大家能在佳奈助的吹水茶会度过愉快的时间，互相学习，共同进步&lt;/p&gt;
+&lt;p&gt;谢谢朋友们！&lt;/p&gt;
 </content>
-        <category term="牛逼PLUS" />
+        <category term="茶话会" />
         <updated>2020-11-18T05:18:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2020/11/17/Hi-This-is-Kana/</id>
+        <id>http://example.com/2020/11/16/Hi!%20This%20is%20Kana!/</id>
         <title>Hi! This is Kana!</title>
-        <link rel="alternate" href="http://example.com/2020/11/17/Hi-This-is-Kana/"/>
-        <content type="html"></content>
-        <updated>2020-11-16T16:34:12.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2020/11/16/test-my-site/</id>
-        <title>test_my_site</title>
-        <link rel="alternate" href="http://example.com/2020/11/16/test-my-site/"/>
-        <content type="html"></content>
-        <updated>2020-11-16T09:15:23.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2020/11/16/hello-world/</id>
-        <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2020/11/16/hello-world/"/>
+        <link rel="alternate" href="http://example.com/2020/11/16/Hi!%20This%20is%20Kana!/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;

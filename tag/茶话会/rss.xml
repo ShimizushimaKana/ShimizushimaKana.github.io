@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>✨佳奈助的吹水茶会🍵 • Posts by &#34;茶话会&#34; tag</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 18 Nov 2020 13:18:00 +0800</pubDate>
+        <lastBuildDate>Wed, 18 Nov 2020 13:18:00 +0800</lastBuildDate>
+        <category>茶话会</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2020/11/18/%E6%B8%85%E6%B0%B4%E5%B6%8B%E4%BD%B3%E5%A5%88%E7%9A%84%E5%90%B9%E6%B0%B4%E8%8C%B6%E4%BC%9Av1.1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/</guid>
+            <title>清水嶋佳奈的吹水茶会v1.1正式上线</title>
+            <link>http://example.com/2020/11/18/%E6%B8%85%E6%B0%B4%E5%B6%8B%E4%BD%B3%E5%A5%88%E7%9A%84%E5%90%B9%E6%B0%B4%E8%8C%B6%E4%BC%9Av1.1%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF/</link>
+            <category>茶话会</category>
+            <pubDate>Wed, 18 Nov 2020 13:18:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;本博客从 2020 年 11 月 18 起正式开始对外发布&lt;/p&gt;
+&lt;p&gt;博客建立采用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYWdlcy5naXRodWIuY29tLw==&#34;&gt; Github Pages&lt;/span&gt; + &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt; 的部署架构&lt;br&gt;
+主题设计上采用&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt; Theme-Shoka&lt;/span&gt; 的模板样式&lt;br&gt;
+目前实现文章发表、添加分类与标签等基础功能&lt;br&gt;
+附加功能已实现网易云音乐插件在页面的播放&lt;br&gt;
+以及在每篇文章末尾添加了游客打赏功能&lt;/p&gt;
+&lt;p&gt;目前已知待修复 bug 有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;个人资料卡图标颜色显示不正常问题&lt;/li&gt;
+&lt;li&gt;部分移动端初次加载缓慢问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下一版本待完善功能有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主题外观升级与完善&lt;/li&gt;
+&lt;li&gt;开放游客注册和文章评论互动&lt;/li&gt;
+&lt;li&gt;支持好友链接访问功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;目前更新完善功能的时间安排在寒假，届时也会参考游客的浏览体验&lt;/p&gt;
+&lt;p&gt;博主本人为上海交通大学软件工程专业本科三年级学生&lt;br&gt;
+想通过一个独立的博客平台更加深入记录自己代码学习的历程&lt;br&gt;
+从 11 月末将开始陆续发布本学期学习课程的笔记与资料&lt;br&gt;
+也会偶尔写一些个人随笔或者转载各类有趣生动的文章&lt;/p&gt;
+&lt;p&gt;希望大家能在佳奈助的吹水茶会度过愉快的时间，互相学习，共同进步&lt;/p&gt;
+&lt;p&gt;谢谢朋友们！&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
