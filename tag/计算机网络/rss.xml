@@ -1,16 +1,25 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://kana-shimizushima.com</id>
-    <title>✨佳奈助的吹水茶会🍵 • Posts by &#34;计算机系统工程,计算机网络,分布式系统&#34; tag</title>
-    <link href="http://kana-shimizushima.com" />
-    <updated>2020-11-24T08:32:47.000Z</updated>
-    <category term="计算机系统工程,计算机网络,分布式系统" />
-    <category term="茶话会" />
-    <entry>
-        <id>http://kana-shimizushima.com/2020/11/24/TCP-IP%E5%9B%9B%E5%B1%82%E5%8D%8F%E8%AE%AE/</id>
-        <title>TCP/IP四层协议</title>
-        <link rel="alternate" href="http://kana-shimizushima.com/2020/11/24/TCP-IP%E5%9B%9B%E5%B1%82%E5%8D%8F%E8%AE%AE/"/>
-        <content type="html">&lt;p&gt;TCP/IP (Transmisson Control Protocol/Internet Protocol, 传输控制协议 / 网际协议) 是指能够在多个不同网络间实现信息传输的协议簇。TCP/IP 协议不仅仅指的是 TCP 和 IP 两个协议，而是指一个由 FTP、SMTP、TCP、UDP、IP 等协议构成的协议簇。因为 TCP/IP 协议中 TCP 协议和 IP 协议最具代表性，所以被称为 TCP/IP 协议。&lt;/p&gt;
+<rss version="2.0">
+    <channel>
+        <title>✨佳奈助的吹水茶会🍵 • Posts by &#34;计算机网络&#34; tag</title>
+        <link>http://kana-shimizushima.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 24 Nov 2020 16:32:47 +0800</pubDate>
+        <lastBuildDate>Tue, 24 Nov 2020 16:32:47 +0800</lastBuildDate>
+        <category>计算机系统工程</category>
+        <category>计算机网络</category>
+        <category>分布式系统</category>
+        <category>茶话会</category>
+        <item>
+            <guid isPermalink="true">http://kana-shimizushima.com/2020/11/24/TCP-IP%E5%9B%9B%E5%B1%82%E5%8D%8F%E8%AE%AE/</guid>
+            <title>TCP/IP四层协议</title>
+            <link>http://kana-shimizushima.com/2020/11/24/TCP-IP%E5%9B%9B%E5%B1%82%E5%8D%8F%E8%AE%AE/</link>
+            <category>计算机系统工程</category>
+            <category>计算机网络</category>
+            <category>分布式系统</category>
+            <pubDate>Tue, 24 Nov 2020 16:32:47 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;TCP/IP (Transmisson Control Protocol/Internet Protocol, 传输控制协议 / 网际协议) 是指能够在多个不同网络间实现信息传输的协议簇。TCP/IP 协议不仅仅指的是 TCP 和 IP 两个协议，而是指一个由 FTP、SMTP、TCP、UDP、IP 等协议构成的协议簇。因为 TCP/IP 协议中 TCP 协议和 IP 协议最具代表性，所以被称为 TCP/IP 协议。&lt;/p&gt;
 &lt;h2 id=&#34;简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#简介&#34;&gt;#&lt;/a&gt; 简介&lt;/h2&gt;
 &lt;p&gt;TCP/IP 传输协议，即传输控制 / 网络协议，也叫作网络通讯协议。它是在网络的使用中的最基本的通信协议。TCP/IP 传输协议对互联网中各部分进行通信的标准和方法进行了规定。并且，TCP/IP 传输协议是保证网络数据信息及时、完整传输的两个重要的协议。TCP/IP 传输协议是严格来说是一个四层的体系结构，应用层、传输层、网络层和数据链路层都包含其中。&lt;br&gt;
 TCP/IP 协议是 Internet 最基本的协议，其中应用层的主要协议有 Telnet、FTP、SMTP 等，是用来接收来自传输层的数据或者按不同应用要求与方式将数据传输至传输层；传输层的主要协议有 UDP、TCP，是使用者使用平台和计算机信息网内部数据结合的通道，可以实现数据传输与数据共享；网络层的主要协议有 ICMP、IP、IGMP，主要负责网络中数据包的传送等；而网络访问层，也叫网路接口层或数据链路层，主要协议有 ARP、RARP，主要功能是提供链路管理错误检测、对不同通信媒介有关信息细节问题进行有效处理等.&lt;/p&gt;
@@ -71,8 +80,7 @@ TCP/IP 协议是 Internet 最基本的协议，其中应用层的主要协议有
 &lt;blockquote&gt;
 &lt;p&gt;PS: 图床工具真的很好用！&lt;/p&gt;
 &lt;/blockquote&gt;
-</content>
-        <category term="计算机系统工程,计算机网络,分布式系统" />
-        <updated>2020-11-24T08:32:47.000Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
